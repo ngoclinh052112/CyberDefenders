@@ -1,7 +1,9 @@
 Q1: Determining the creation time of the malware can provide insights into its origin. What was the time of malware creation?
+Thời điểm báo cáo đầu tiên về malware này là : 2022-09-28 17:40
 <img width="636" height="127" alt="{521BB2D5-0CE4-4DF4-B530-380D85E6C48E}" src="https://github.com/user-attachments/assets/31c050da-8e52-434f-9d13-776792ba3d60" />
 
 Q2: Identifying the command and control (C2) server that the malware communicates with can help trace back to the attacker. Which C2 server does the malware in the PPT file communicate with?
+
 <img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/555f6c98-2522-4584-a33e-e97b53e313ca" />
 
 Q3: Identifying the initial actions of the malware post-infection can provide insights into its primary objectives. What is the first library that the malware requests post-infection?
